@@ -23,7 +23,6 @@ setup(
         'Topic :: System :: Monitoring'
     ],
     install_requires=[
-        'psutil',
         'six'
     ],
     test_suite='nose.collector',
